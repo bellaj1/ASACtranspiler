@@ -1,3 +1,6 @@
+### Note
+The new version that supports new solidity versions is available! Reach out to bellaj.badr@mchain.uk
+
 # Alfa-to-Solidity-translator-in-Cpp-using-Antlr4
 This is an Alfa-to-Solidity translator developped using **Cpp** and **ANTLR4** features. It uses the listener methods to walk the parsing tree to provide a translation from the **ALFA** (XACML pseudo-code) to a **smart contract** written in **Solidity** (Ethereum smart contracts language). It is not a full translator. So far, not all **ALFA** code can be parsed, the blocks covered in this project are :
 >- Namespace, attributes definitions ;
